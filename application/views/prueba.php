@@ -6,3 +6,8 @@ hola si te funciono amigo mio aqui estoy configuracion xtesa
  como estas compañero sigo provando
 	otra verz
 	
+dfasfdasdasda
+	asd
+	asd
+	asd
+	asd
