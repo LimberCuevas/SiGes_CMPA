@@ -6,24 +6,7 @@ hola si te funciono amigo 1.2.3.1.2.3.1.2.3
 <<<<<<< HEAD
 hola como estas compañero de travesuras
 =======
-estoy probando una ultima vez
->>>>>>> adf838d1c64c39cb3b36dc3aca40ce797e6c571b
-sigo aqui muchachitofwdfsdf
-sdfsd
-fds
-f
-wdewfasdfsdf
-dsfds
-f
 
-
-sfdgdsgsdfg
-fbvxf
-xg
-vxfv
-xc
-sdg
-sdg
 sdg
 dsgfsd
 gf
