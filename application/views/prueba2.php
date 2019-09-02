@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 hola si te funciono amigo 1.2.3.1.2.3
 =======
 hola si te funciono amigo 1.2.3.1.2.3.1.2.3
@@ -25,3 +25,5 @@ xc
 sdg
 sdg
 sdg
+dsgfsd
+gf
